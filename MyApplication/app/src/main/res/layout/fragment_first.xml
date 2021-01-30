@@ -22,7 +22,7 @@
         android:layout_height="match_parent"
         android:text="WE ARE BUIDLING SOMETHING MORE"
         android:paddingBottom="210dp"
-        android:gravity="center"/>
+        android:gravity="center" />
 
     <Button
         android:id="@+id/button_first"
